@@ -1,1 +1,20 @@
-
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Em uma frase podemos definir as <b>ênfases</b> desejadas, ou seja, as palavras mais <i>importantes</i>
+    <br>É possivel incluir uma palavra <small>menor</small> que as demais.
+    <br>Usar recursos de subscrito e sobrescrito:
+    <br>H<sub>2</sub>O 
+    <br>8<sup>2</sup>
+    
+    <p><br>Alguns textos <del>excluídos</del>. Além de fazer combinações:</p>
+    <br><b>H<sub>2</sub>O</b>
+    <br>8<sup><i>2</i></sup>
+    <br><b>Palavras <i>Importantes</i></b>
+</body>
+</html>
